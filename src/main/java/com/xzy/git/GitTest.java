@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("master git3!");
         System.out.println("hot-fix git3!");
         System.out.println("pull git!");
+        System.out.println("pull git!");
     }
 }
